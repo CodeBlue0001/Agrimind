@@ -1,0 +1,27 @@
+new_data_tea = pd.DataFrame([
+    {
+        'Nitrogen': 120,
+        'Phosphorus': 40,
+        'Potassium': 100,
+        'Temperature': 22,
+        'Humidity': 80,
+        'pH_Value': 5.0,
+        'Rainfall': 200,
+        'Soil_Type': 'Loamy',
+        'Variety': 'Assam'
+    }
+])
+
+new_data_wheat = pd.DataFrame([
+    {
+        'Nitrogen': 80,
+        'Phosphorus': 40,
+        'Potassium': 40,
+        'Temperature': 20,
+        'Humidity': 50,
+        'pH_Value': 6.5,
+        'Rainfall': 75,
+        'Soil_Type': 'Loamy',
+        'Variety': ''
+    }
+])

@@ -1,0 +1,734 @@
+State,District,Avg_rainfall
+Andaman & Nicobar,Nicobars,0
+Andaman & Nicobar,North And Middle Andaman,0
+Andaman & Nicobar,South Andamans,0
+Andhra Pradesh,Anantapur,776.5634813
+Andhra Pradesh,Chittoor,1074.608876
+Andhra Pradesh,East Godavari,1371.896507
+Andhra Pradesh,Guntur,1059.643797
+Andhra Pradesh,Krishna,1119.304494
+Andhra Pradesh,Kurnool,788.291804
+Andhra Pradesh,Prakasam,912.5664659
+Andhra Pradesh,SPSR Nellore,968.9065473
+Andhra Pradesh,Srikakulam,856.0004471
+Andhra Pradesh,Visakhapatanam,1298.29041
+Andhra Pradesh,Vizianagaram,1292.150062
+Andhra Pradesh,West Godavari,1443.920016
+Andhra Pradesh,Y.S.R.,821.7839757
+Arunachal Pradesh,Anjaw,580.6344627
+Arunachal Pradesh,Changlang,1426.234211
+Arunachal Pradesh,Dibang Valley,1787.67689
+Arunachal Pradesh,East Kameng,1784.389805
+Arunachal Pradesh,East Siang,1948.264466
+Arunachal Pradesh,Kamle,2334.847677
+Arunachal Pradesh,Kra Daadi,2384.557533
+Arunachal Pradesh,Kurung Kumey,1827.31192
+Arunachal Pradesh,Leparada,2083.687189
+Arunachal Pradesh,Lohit,2160.025881
+Arunachal Pradesh,Longding,1717.562187
+Arunachal Pradesh,Lower Dibang Valley,2160.312889
+Arunachal Pradesh,Lower Siang,2076.898998
+Arunachal Pradesh,Lower Subansiri,2191.037921
+Arunachal Pradesh,Namsai,2143.660327
+Arunachal Pradesh,Pakke Kessang,1890.848831
+Arunachal Pradesh,Papum Pare,2097.833255
+Arunachal Pradesh,Shi Yomi,1529.313606
+Arunachal Pradesh,Siang,1793.250314
+Arunachal Pradesh,Tawang,700.7063152
+Arunachal Pradesh,Tirap,1784.049446
+Arunachal Pradesh,Upper Siang,1840.998141
+Arunachal Pradesh,Upper Subansiri,1648.499309
+Arunachal Pradesh,West Kameng,1537.976573
+Arunachal Pradesh,West Siang,1821.371634
+Assam,Baksa,1401.325645
+Assam,Barpeta,1760.768557
+Assam,Biswanath,1115.814484
+Assam,Bongaigaon,1437.768651
+Assam,Cachar,2298.517056
+Assam,Charaideo,1531.628598
+Assam,Chirang,1530.979731
+Assam,Darrang,1175.291268
+Assam,Dhemaji,2008.929411
+Assam,Dhubri,2076.82353
+Assam,Dibrugarh,1775.940231
+Assam,Dima Hasao,1212.057936
+Assam,Goalpara,1920.163636
+Assam,Golaghat,1048.11237
+Assam,Hailakandi,2673.903362
+Assam,Hojai,1298.760795
+Assam,Jorhat,1237.845842
+Assam,Kamrup,1474.97127
+Assam,Kamrup Metro,1447.51625
+Assam,Karbi Anglong,927.0166803
+Assam,Karimganj,2602.280177
+Assam,Kokrajhar,2369.522807
+Assam,Lakhimpur,1826.359163
+Assam,Majuli,1642.485977
+Assam,Marigaon,1473.926087
+Assam,Nagaon,1246.149926
+Assam,Nalbari,1657.934553
+Assam,Sivasagar,1320.47495
+Assam,Sonitpur,1300.265378
+Assam,South Salmara Mancachar,1566.918495
+Assam,Tinsukia,1557.165825
+Assam,Udalguri,1189.583293
+Assam,West Karbi Anglong,1471.708163
+Bihar,Araria,1017.849954
+Bihar,Arwal,701.627637
+Bihar,Aurangabad,743.7045898
+Bihar,Banka,817.5107103
+Bihar,Begusarai,617.4410902
+Bihar,Bhagalpur,727.7570322
+Bihar,Bhojpur,604.725226
+Bihar,Buxar,724.0837325
+Bihar,Darbhanga,529.6649705
+Bihar,Gaya,718.0456275
+Bihar,Gopalganj,668.9157855
+Bihar,Jamui,956.1142086
+Bihar,Jehanabad,666.0161711
+Bihar,Kaimur (Bhabua),738.320458
+Bihar,Katihar,794.6735368
+Bihar,Khagaria,630.5210349
+Bihar,Kishanganj,1441.334516
+Bihar,Lakhisarai,658.1944369
+Bihar,Madhepura,680.417646
+Bihar,Madhubani,512.2440958
+Bihar,Munger,682.4191667
+Bihar,Muzaffarpur,462.0066297
+Bihar,Nalanda,526.16855
+Bihar,Nawada,563.2131952
+Bihar,Pashchim Champaran,693.0332383
+Bihar,Patna,608.9962346
+Bihar,Purbi Champaran,678.65069
+Bihar,Purnia,709.867088
+Bihar,Rohtas,457.3054732
+Bihar,Saharsa,428.1382672
+Bihar,Samastipur,445.0611515
+Bihar,Saran,432.5427002
+Bihar,Sheikhpura,613.633309
+Bihar,Sheohar,461.7874796
+Bihar,Sitamarhi,649.9080083
+Bihar,Siwan,516.4706661
+Bihar,Supaul,366.9301482
+Bihar,Vaishali,468.3172191
+Chandigarh,Chandigarh,601.676
+Chhattisgarh,Balod,1442.074043
+Chhattisgarh,Baloda Bazar,1255.285876
+Chhattisgarh,Balrampur,1317.125213
+Chhattisgarh,Bastar,1492.155823
+Chhattisgarh,Bemetara,1127.744602
+Chhattisgarh,Bijapur,1820.498874
+Chhattisgarh,Bilapur,1209.134796
+Chhattisgarh,Dantewada,1590.146414
+Chhattisgarh,Dhamtari,1125.809557
+Chhattisgarh,Durg,1184.493709
+Chhattisgarh,Gariyaband,1313.970365
+Chhattisgarh,Gaurella Pendra Marwahi,1397.861602
+Chhattisgarh,Janjgir-Champa,1170.84316
+Chhattisgarh,Jashpur,1299.872411
+Chhattisgarh,Kabirdham,1121.066178
+Chhattisgarh,Kanker,1471.781012
+Chhattisgarh,Kondagaon,1340.04791
+Chhattisgarh,Korba,1270.201866
+Chhattisgarh,Korea,1134.218942
+Chhattisgarh,Mahasamund,1158.598699
+Chhattisgarh,Mungeli,1178.260214
+Chhattisgarh,Narayanpur,1426.142237
+Chhattisgarh,Raigarh,1119.794308
+Chhattisgarh,Raipur,1206.794288
+Chhattisgarh,Rajnandgaon,1312.128313
+Chhattisgarh,Sukma,1664.991056
+Chhattisgarh,Surajpur,1224.068911
+Chhattisgarh,Surguja,1140.236463
+Dadra & Nagar Haveli,Dadra And Nagar Haveli,2210.970662
+Daman & Diu,Daman,1981.412792
+Daman & Diu,Diu,778.2663629
+Delhi,Central,721.9698556
+Delhi,East,726.4053127
+Delhi,New Delhi,763.715486
+Delhi,North,700.9596534
+Delhi,North East,717.877
+Delhi,North West,689.3947308
+Delhi,Shahdara,717.877
+Delhi,South,821.966
+Delhi,South East,820.0280571
+Delhi,South West,611.1916739
+Delhi,West,690.2945328
+Goa,North Goa,4163.77237
+Goa,South Goa,4382.10826
+Gujarat,Ahmadabad,706.3345218
+Gujarat,Amreli,652.1133779
+Gujarat,Anand,668.0801831
+Gujarat,Arvalli,1038.336376
+Gujarat,Banas Kantha,646.1066987
+Gujarat,Bharuch,1166.927918
+Gujarat,Bhavnagar,574.9732882
+Gujarat,Botad,640.5992039
+Gujarat,Chhotaudepur,884.3128476
+Gujarat,Dang,1681.10459
+Gujarat,Devbhumi Dwarka,1315.926012
+Gujarat,Dohad,1067.358962
+Gujarat,Gandhinagar,926.6883543
+Gujarat,Gir Somnath,737.2883603
+Gujarat,Jamnagar,578.7964195
+Gujarat,Junagadh,1387.602409
+Gujarat,Kachchh,332.1998202
+Gujarat,Kheda,869.5881089
+Gujarat,Mahesana,731.1036119
+Gujarat,Mahisagar,926.0691669
+Gujarat,Morbi,525.9539357
+Gujarat,Narmada,1367.417065
+Gujarat,Navsari,1499.511507
+Gujarat,Panch Mahals,808.8893111
+Gujarat,Patan,458.9244973
+Gujarat,Porbandar,1088.223501
+Gujarat,Rajkot,675.7972447
+Gujarat,Sabar Kantha,821.7346369
+Gujarat,Surat,1484.567323
+Gujarat,Surendranagar,558.4979973
+Gujarat,Tapi,1141.402363
+Gujarat,Vadodara,1016.434569
+Gujarat,Valsad,1709.654104
+Haryana,Ambala,600.9378258
+Haryana,Bhiwani,388.0989067
+Haryana,Charki Dadri,441.6378977
+Haryana,Faridabad,655.8390264
+Haryana,Fatehabad,387.24661
+Haryana,Gurugram,615.7372184
+Haryana,Hisar,424.5308446
+Haryana,Jhajjar,519.7036524
+Haryana,Jind,423.6329997
+Haryana,Kaithal,409.5342074
+Haryana,Karnal,535.7347721
+Haryana,Kurukshetra,569.6445369
+Haryana,Mahendragarh,643.5850907
+Haryana,Nuh,754.0844238
+Haryana,Palwal,630.779006
+Haryana,Panchkula,706.1766846
+Haryana,Panipat,569.0312585
+Haryana,Rewari,603.5947759
+Haryana,Rohtak,512.5252492
+Haryana,Sirsa,320.1113979
+Haryana,Sonipat,532.8793365
+Haryana,Yamunanagar,690.8288266
+Himachal Pradesh,Bilaspur,946.2971406
+Himachal Pradesh,Chamba,984.1801511
+Himachal Pradesh,Hamirpur,1044.87018
+Himachal Pradesh,Kangra,1166.187323
+Himachal Pradesh,Kinnaur,553.3429084
+Himachal Pradesh,Kullu,946.4127992
+Himachal Pradesh,Lahul & Spiti,662.1113903
+Himachal Pradesh,Mandi,1311.011078
+Himachal Pradesh,Shimla,1105.902875
+Himachal Pradesh,Sirmaur,1298.906494
+Himachal Pradesh,Solan,871.1527237
+Himachal Pradesh,Una,925.9508269
+Jammu & Kashmir,Anantnag,854.5973771
+Jammu & Kashmir,Bandipora,756.1119126
+Jammu & Kashmir,Baramulla,958.1829299
+Jammu & Kashmir,Budgam,859.5268577
+Jammu & Kashmir,Doda,880.4501054
+Jammu & Kashmir,Ganderbal,828.1262921
+Jammu & Kashmir,Jammu,1026.993071
+Jammu & Kashmir,Kathua,950.1532722
+Jammu & Kashmir,Kishtwar,771.0812936
+Jammu & Kashmir,Kulgam,925.0479498
+Jammu & Kashmir,Kupwara,964.7214188
+Jammu & Kashmir,Mirpur,884.5438338
+Jammu & Kashmir,Muzaffarabad,1043.480447
+Jammu & Kashmir,Poonch,964.9738783
+Jammu & Kashmir,Pulwama,770.4220558
+Jammu & Kashmir,Rajouri,978.1847642
+Jammu & Kashmir,Ramban,880.3652154
+Jammu & Kashmir,Reasi,979.1410152
+Jammu & Kashmir,Samba,962.7336533
+Jammu & Kashmir,Shopian,611.9388738
+Jammu & Kashmir,Srinagar,792.6630494
+Jammu & Kashmir,Udhampur,960.5652899
+Jharkhand,Bokaro,1354.879841
+Jharkhand,Chatra,1023.998589
+Jharkhand,Deoghar,1142.418749
+Jharkhand,Dhanbad,1768.058307
+Jharkhand,Dumka,1186.529419
+Jharkhand,East Singhbum,1185.994579
+Jharkhand,Garhwa,1046.158821
+Jharkhand,Giridih,1147.447894
+Jharkhand,Godda,1141.114761
+Jharkhand,Gumla,1315.856768
+Jharkhand,Hazaribagh,1084.309084
+Jharkhand,Jamtara,1367.579823
+Jharkhand,Khunti,1290.130917
+Jharkhand,Koderma,1049.152575
+Jharkhand,Latehar,1104.229828
+Jharkhand,Lohardaga,1180.019071
+Jharkhand,Pakur,1163.634319
+Jharkhand,Palamu,997.6337025
+Jharkhand,Ramgarh,1237.852911
+Jharkhand,Ranchi,1311.123721
+Jharkhand,Sahebganj,1104.244998
+Jharkhand,Saraikela Kharsawan,1233.543538
+Jharkhand,Simdega,1185.10623
+Jharkhand,West Singhbhum,1064.414656
+Karnataka,Bagalkote,754.2941238
+Karnataka,Ballari,858.4372514
+Karnataka,Belagavi,1196.362389
+Karnataka,Bengaluru Rural,1053.528292
+Karnataka,Bengaluru Urban,1130.579378
+Karnataka,Bidar,1099.488944
+Karnataka,Chamarajanagara,1256.319527
+Karnataka,Chikkaballapura,1015.369699
+Karnataka,Chikkamagaluru,2115.273661
+Karnataka,Chitradurga,925.8008941
+Karnataka,Dakshina Kannada,3680.12095
+Karnataka,Davangere,1052.600298
+Karnataka,Dharwad,1077.590727
+Karnataka,Gadag,822.7975824
+Karnataka,Hassan,1130.390727
+Karnataka,Haveri,983.7338609
+Karnataka,Kalaburagi,828.0409615
+Karnataka,Kodagu,2182.237495
+Karnataka,Kolar,745.4857358
+Karnataka,Koppal,757.1558347
+Karnataka,Mandya,1316.065133
+Karnataka,Mysuru,1208.853633
+Karnataka,Raichur,572.4365345
+Karnataka,Ramanagara,963.4104961
+Karnataka,Shivamogga,1894.793637
+Karnataka,Tumakuru,859.4054088
+Karnataka,Udupi,3447.254809
+Karnataka,Uttara Kannada,2734.888302
+Karnataka,Vijayapura,608.8545735
+Karnataka,Yadgir,789.5163338
+Kerala,Alappuzha,3056.097862
+Kerala,Ernakulam,3095.046312
+Kerala,Idukki,2855.980827
+Kerala,Kannur,3580.298588
+Kerala,Kasaragod,3601.899211
+Kerala,Kollam,2195.230405
+Kerala,Kottayam,2893.944344
+Kerala,Kozhikode,3377.746892
+Kerala,Malappuram,2744.027752
+Kerala,Palakkad,2348.360821
+Kerala,Pathanamthitta,2603.480038
+Kerala,Thiruvananthapuram,2014.747368
+Kerala,Thrissur,3111.963254
+Kerala,Wayanad,2537.984761
+Ladakh,Kargil,545.4890607
+Ladakh,Leh Ladakh,502.8869968
+Lakshadweep,Lakshadweep District,0
+Madhya Pradesh,Agar Malwa,631.1834145
+Madhya Pradesh,Alirajpur,810.4322318
+Madhya Pradesh,Anuppur,833.0608984
+Madhya Pradesh,Ashoknagar,689.548661
+Madhya Pradesh,Balaghat,512.1866775
+Madhya Pradesh,Barwani,424.8241267
+Madhya Pradesh,Betul,673.0178252
+Madhya Pradesh,Bhind,646.0133412
+Madhya Pradesh,Bhopal,752.0354202
+Madhya Pradesh,Burhanpur,673.4800892
+Madhya Pradesh,Chhatarpur,424.9759053
+Madhya Pradesh,Chhindwara,509.7350398
+Madhya Pradesh,Damoh,582.4375354
+Madhya Pradesh,Datia,401.0622234
+Madhya Pradesh,Dewas,703.7461798
+Madhya Pradesh,Dhar,565.1861813
+Madhya Pradesh,Dindori,664.0946693
+Madhya Pradesh,East Nimar,690.9779341
+Madhya Pradesh,Guna,835.8817509
+Madhya Pradesh,Gwalior,653.3800732
+Madhya Pradesh,Harda,684.7706115
+Madhya Pradesh,Hoshangabad,905.8436307
+Madhya Pradesh,Indore,623.3423089
+Madhya Pradesh,Jabalpur,856.9128784
+Madhya Pradesh,Jhabua,757.1753198
+Madhya Pradesh,Katni,695.9274338
+Madhya Pradesh,Khargone,555.1064957
+Madhya Pradesh,Mandla,792.178426
+Madhya Pradesh,Mandsaur,612.9820276
+Madhya Pradesh,Morena,597.4179862
+Madhya Pradesh,Narsinghpur,815.9822034
+Madhya Pradesh,Neemuch,655.059349
+Madhya Pradesh,Niwari,650.855367
+Madhya Pradesh,Panna,683.7409395
+Madhya Pradesh,Raisen,777.4015783
+Madhya Pradesh,Rajgarh,764.0944802
+Madhya Pradesh,Ratlam,683.7093505
+Madhya Pradesh,Rewa,465.8668615
+Madhya Pradesh,Sagar,775.1538259
+Madhya Pradesh,Satna,538.4249993
+Madhya Pradesh,Sehore,897.7726394
+Madhya Pradesh,Seoni,787.2466088
+Madhya Pradesh,Shahdol,388.4689287
+Madhya Pradesh,Shajapur,485.6074729
+Madhya Pradesh,Sheopur,543.7680429
+Madhya Pradesh,Shivpuri,610.5879214
+Madhya Pradesh,Sidhi,550.8452167
+Madhya Pradesh,Singrauli,466.6474311
+Madhya Pradesh,Tikamgarh,247.4501988
+Madhya Pradesh,Ujjain,404.6222434
+Madhya Pradesh,Umaria,342.0408046
+Madhya Pradesh,Vidisha,369.3134202
+Maharashtra,Ahmednagar,630.348445
+Maharashtra,Akola,781.6638932
+Maharashtra,Amravati,643.3464276
+Maharashtra,Aurangabad,566.7463457
+Maharashtra,Beed,483.2191951
+Maharashtra,Bhandara,1129.458235
+Maharashtra,Buldhana,868.7042457
+Maharashtra,Chandrapur,1344.177997
+Maharashtra,Dhule,873.9341509
+Maharashtra,Gadchiroli,1425.202211
+Maharashtra,Gondia,1059.150821
+Maharashtra,Hingoli,825.7282198
+Maharashtra,Jalgaon,916.261772
+Maharashtra,Jalna,758.5516302
+Maharashtra,Kolhapur,1728.26699
+Maharashtra,Latur,871.4840412
+Maharashtra,Mumbai City,1933.240883
+Maharashtra,Mumbai Suburban,1726.152623
+Maharashtra,Nagpur,1103.547343
+Maharashtra,Nanded,916.7735383
+Maharashtra,Nandurbar,839.4739684
+Maharashtra,Nashik,925.7275205
+Maharashtra,Osmanabad,904.3951756
+Maharashtra,Palghar,1920.430693
+Maharashtra,Parbhani,907.1646706
+Maharashtra,Pune,1230.701863
+Maharashtra,Raigad,2986.449638
+Maharashtra,Ratnagiri,2547.28117
+Maharashtra,Sangli,669.3084771
+Maharashtra,Satara,1177.194982
+Maharashtra,Sindhudurg,2795.145096
+Maharashtra,Solapur,683.8042106
+Maharashtra,Thane,1903.144095
+Maharashtra,Wardha,1133.112848
+Maharashtra,Washim,1003.770278
+Maharashtra,Yavatmal,1156.208948
+Manipur,Bishnupur,1801.91084
+Manipur,Chandel,1375.49733
+Manipur,Churachandpur,1550.164697
+Manipur,Imphal East,1342.044291
+Manipur,Imphal West,1404.286706
+Manipur,Jiribam,2526.742641
+Manipur,Kakching,1793.965946
+Manipur,Kamjong,1319.318381
+Manipur,Kangpokpi,1402.171716
+Manipur,Noney,1754.676707
+Manipur,Pherzawl,2109.611859
+Manipur,Senapati,1727.239329
+Manipur,Tamenglong,2082.747184
+Manipur,Tengnoupal,1387.929161
+Manipur,Thoubal,1850.179657
+Manipur,Ukhrul,1630.703998
+Meghalaya,East Garo Hills,2471.154428
+Meghalaya,East Jaintia Hills,1794.796456
+Meghalaya,East Khasi Hills,3740.522641
+Meghalaya,North Garo Hills,2305.779943
+Meghalaya,Ri Bhoi,2446.901855
+Meghalaya,South Garo Hills,2324.482386
+Meghalaya,South West Garo Hills,1378.668199
+Meghalaya,South West Khasi Hills,3242.11767
+Meghalaya,West Garo Hills,1801.565941
+Meghalaya,West Jaintia Hills,1967.169073
+Meghalaya,West Khasi Hills,2594.316083
+Mizoram,Aizawl,2046.445479
+Mizoram,Champhai,1614.405608
+Mizoram,Kolasib,2448.082975
+Mizoram,Lawngtlai,1594.077386
+Mizoram,Lunglei,1875.704312
+Mizoram,Mamit,2331.999711
+Mizoram,Saiha,1339.475143
+Mizoram,Serchhip,1840.770701
+Nagaland,Dimapur,1277.147248
+Nagaland,Kiphire,1771.949404
+Nagaland,Kohima,1635.874844
+Nagaland,Longleng,1962.430153
+Nagaland,Mokokchung,1798.747499
+Nagaland,Mon,2125.088925
+Nagaland,Peren,1523.951518
+Nagaland,Phek,1251.577465
+Nagaland,Tuensang,2038.944018
+Nagaland,Wokha,1425.044631
+Nagaland,Zunheboto,1835.335162
+Odisha,Anugul,1438.32373
+Odisha,Balangir,1310.886503
+Odisha,Baleshwar,1015.578194
+Odisha,Bargarh,1290.331325
+Odisha,Bhadrak,966.8545494
+Odisha,Boudh,1430.137519
+Odisha,Cuttack,1443.665936
+Odisha,Deogarh,1380.7324
+Odisha,Dhenkanal,1433.905241
+Odisha,Gajapati,1224.823988
+Odisha,Ganjam,1165.44844
+Odisha,Jagatsinghapur,1265.929733
+Odisha,Jajapur,1082.198026
+Odisha,Jharsuguda,1152.280182
+Odisha,Kalahandi,1419.03796
+Odisha,Kandhamal,1361.195855
+Odisha,Kendrapara,1114.132345
+Odisha,Kendujhar,912.1582149
+Odisha,Khordha,1238.781761
+Odisha,Koraput,1121.72755
+Odisha,Malkangiri,1358.906458
+Odisha,Mayurbhanj,1062.61156
+Odisha,Nabarangpur,1208.480702
+Odisha,Nayagarh,1419.660425
+Odisha,Nuapada,1069.484134
+Odisha,Puri,735.7488737
+Odisha,Rayagada,1053.810337
+Odisha,Sambalpur,1097.305294
+Odisha,Sonepur,1387.843121
+Odisha,Sundargarh,855.3160978
+Puducherry,Karaikal,1706.620447
+Puducherry,Mahe,3242.417
+Puducherry,Pondicherry,1650.290474
+Puducherry,Yanam,1217.265
+Punjab,Amritsar,612.6624679
+Punjab,Barnala,343.3753066
+Punjab,Bathinda,278.1621683
+Punjab,Faridkot,296.4821306
+Punjab,Fatehgarh Sahib,459.5977761
+Punjab,Fazilka,243.3979961
+Punjab,Firozepur,304.9416265
+Punjab,Gurdaspur,756.1810772
+Punjab,Hoshiarpur,683.5470383
+Punjab,Jalandhar,491.2710237
+Punjab,Kapurthala,577.8572014
+Punjab,Ludhiana,479.4249116
+Punjab,Mansa,337.4713262
+Punjab,Moga,321.3071852
+Punjab,Pathankot,992.7537403
+Punjab,Patiala,481.3959423
+Punjab,Rupnagar,716.944755
+Punjab,S.A.S Nagar,599.1709796
+Punjab,Sangrur,414.2515193
+Punjab,Shahid Bhagat Singh Nagar,580.6790173
+Punjab,Sri Muktsar Sahib,263.3184071
+Punjab,Tarn Taran,410.2973839
+Rajasthan,Ajmer,608.6971555
+Rajasthan,Alwar,673.485401
+Rajasthan,Banswara,938.9566528
+Rajasthan,Baran,869.893028
+Rajasthan,Barmer,286.2116218
+Rajasthan,Bharatpur,677.6129301
+Rajasthan,Bhilwara,637.5379987
+Rajasthan,Bikaner,244.9976847
+Rajasthan,Bundi,779.7483055
+Rajasthan,Chittorgarh,843.641742
+Rajasthan,Churu,325.8645647
+Rajasthan,Dausa,865.4923659
+Rajasthan,Dholpur,888.0738491
+Rajasthan,Dungarpur,716.9044174
+Rajasthan,Ganganagar,190.1858104
+Rajasthan,Hanumangarh,241.3743619
+Rajasthan,Jaipur,736.883473
+Rajasthan,Jaisalmer,312.300275
+Rajasthan,Jalore,513.0915938
+Rajasthan,Jhalawar,1083.998721
+Rajasthan,Jhunjhunu,592.7783992
+Rajasthan,Jodhpur,421.3665481
+Rajasthan,Karauli,935.415743
+Rajasthan,Kota,817.44039
+Rajasthan,Nagaur,500.9327521
+Rajasthan,Pali,688.938059
+Rajasthan,Pratapgarh,990.429169
+Rajasthan,Rajsamand,688.4381366
+Rajasthan,Sawai Madhopur,881.1492425
+Rajasthan,Sikar,554.1399366
+Rajasthan,Sirohi,644.6988024
+Rajasthan,Tonk,830.2301855
+Rajasthan,Udaipur,624.1410044
+Sikkim,East District,2030.314354
+Sikkim,North District,933.8112819
+Sikkim,South District,1988.380869
+Sikkim,West District,1846.657329
+Tamil Nadu,Ariyalur,1128.143716
+Tamil Nadu,Chengalpattu,887.1825965
+Tamil Nadu,Chennai,277.6221213
+Tamil Nadu,Coimbatore,1470.053038
+Tamil Nadu,Cuddalore,1170.226076
+Tamil Nadu,Dharmapuri,1203.465913
+Tamil Nadu,Dindigul,1077.658985
+Tamil Nadu,Erode,964.886618
+Tamil Nadu,Kallakurichi,1205.484096
+Tamil Nadu,Kanchipuram,1000.209399
+Tamil Nadu,Kanniyakumari,1069.503571
+Tamil Nadu,Karur,719.9786351
+Tamil Nadu,Krishnagiri,1075.882649
+Tamil Nadu,Madurai,849.3999278
+Tamil Nadu,Nagapattinam,1325.627832
+Tamil Nadu,Namakkal,979.6562286
+Tamil Nadu,Perambalur,876.367716
+Tamil Nadu,Pudukkottai,883.3724974
+Tamil Nadu,Ramanathapuram,486.2783663
+Tamil Nadu,Ranipet,627.781027
+Tamil Nadu,Salem,933.3213159
+Tamil Nadu,Sivaganga,994.4047632
+Tamil Nadu,Tenkasi,988.219396
+Tamil Nadu,Thanjavur,723.9496416
+Tamil Nadu,The Nilgiris,962.0988614
+Tamil Nadu,Theni,1048.208657
+Tamil Nadu,Thiruvallur,1030.271925
+Tamil Nadu,Thiruvarur,1124.889462
+Tamil Nadu,Tiruchirappalli,618.6037149
+Tamil Nadu,Tirunelveli,857.4661014
+Tamil Nadu,Tirupathur,696.7332194
+Tamil Nadu,Tiruppur,691.1497118
+Tamil Nadu,Tiruvannamalai,1066.014217
+Tamil Nadu,Tuticorin,604.3254598
+Tamil Nadu,Vellore,974.3101877
+Tamil Nadu,Villupuram,1362.788889
+Tamil Nadu,Virudhunagar,924.0960336
+Telangana,Adilabad,1104.006472
+Telangana,Bhadradri Kothagudem,1336.37473
+Telangana,Hyderabad,772.6066012
+Telangana,Jagitial,1053.168475
+Telangana,Jangoan,1027.662983
+Telangana,Jayashankar Bhupalapally,1302.321232
+Telangana,Jogulamba Gadwal,667.7231863
+Telangana,Kamareddy,1046.680023
+Telangana,Karimnagar,1000.513156
+Telangana,Khammam,1115.219912
+Telangana,Kumuram Bheem Asifabad,1404.116624
+Telangana,Mahabubabad,1502.857524
+Telangana,Mahabubnagar,988.1977131
+Telangana,Mancherial,1411.99039
+Telangana,Medak,922.8631575
+Telangana,Medchal Malkajgiri,977.6457733
+Telangana,Mulugu,1759.997387
+Telangana,Nagarkurnool,821.0184915
+Telangana,Nalgonda,748.0011272
+Telangana,Narayanpet,731.0308817
+Telangana,Nirmal,1097.599231
+Telangana,Nizamabad,1006.107819
+Telangana,Peddapalli,1273.126023
+Telangana,Rajanna Sircilla,1004.063176
+Telangana,Ranga Reddy,759.4968753
+Telangana,Sangareddy,957.1811501
+Telangana,Siddipet,749.9208163
+Telangana,Suryapet,790.6538073
+Telangana,Vikarabad,778.6565731
+Telangana,Wanaparthy,518.1070096
+Telangana,Warangal Rural,1140.763317
+Telangana,Warangal Urban,1020.551346
+Telangana,Yadadri Bhuvanagiri,838.2600476
+Tripura,Dhalai,1799.450162
+Tripura,Gomati,2100.519992
+Tripura,Khowai,2101.930424
+Tripura,North Tripura,2480.325962
+Tripura,Sepahijala,1683.75652
+Tripura,South Tripura,1650.80675
+Tripura,Unakoti,2745.471284
+Tripura,West Tripura,1699.837243
+Uttarakhand,Almora,1384.289508
+Uttarakhand,Bageshwar,1739.40106
+Uttarakhand,Chamoli,1262.564649
+Uttarakhand,Champawat,1554.365329
+Uttarakhand,Dehradun,1496.035152
+Uttarakhand,Haridwar,913.4037296
+Uttarakhand,Nainital,1449.510213
+Uttarakhand,Pauri Garhwal,1086.057961
+Uttarakhand,Pithoragarh,1148.305965
+Uttarakhand,Rudra Prayag,1332.037568
+Uttarakhand,Tehri Garhwal,1449.217017
+Uttarakhand,Udam Singh Nagar,1365.115362
+Uttarakhand,Uttar Kashi,1008.042548
+Uttar Pradesh,Agra,122.4287353
+Uttar Pradesh,Aligarh,373.7062199
+Uttar Pradesh,Ambedkar Nagar,386.7745038
+Uttar Pradesh,Amethi,87.46020168
+Uttar Pradesh,Amroha,213.7657154
+Uttar Pradesh,Auraiya,155.9328761
+Uttar Pradesh,Ayodhya,172.5787945
+Uttar Pradesh,Azamgarh,155.9389748
+Uttar Pradesh,Baghpat,100.582242
+Uttar Pradesh,Bahraich,320.9751555
+Uttar Pradesh,Ballia,163.3613209
+Uttar Pradesh,Balrampur,692.0232919
+Uttar Pradesh,Banda,322.9586428
+Uttar Pradesh,Barabanki,333.6636283
+Uttar Pradesh,Bareilly,365.3710544
+Uttar Pradesh,Basti,471.0215092
+Uttar Pradesh,Bhadohi,271.6496576
+Uttar Pradesh,Bijnor,263.3601011
+Uttar Pradesh,Budaun,353.8305954
+Uttar Pradesh,Bulandshahr,362.8945929
+Uttar Pradesh,Chandauli,300.7951483
+Uttar Pradesh,Chitrakoot,306.0662063
+Uttar Pradesh,Deoria,403.2209236
+Uttar Pradesh,Etah,376.8635358
+Uttar Pradesh,Etawah,383.9513004
+Uttar Pradesh,Farrukhabad,319.8722125
+Uttar Pradesh,Fatehpur,405.890266
+Uttar Pradesh,Firozabad,368.6368457
+Uttar Pradesh,Gautam Buddha Nagar,285.1530579
+Uttar Pradesh,Ghaziabad,257.8609243
+Uttar Pradesh,Ghazipur,309.5719201
+Uttar Pradesh,Gonda,457.587594
+Uttar Pradesh,Gorakhpur,448.7373618
+Uttar Pradesh,Hamirpur,297.4920343
+Uttar Pradesh,Hapur,254.181654
+Uttar Pradesh,Hardoi,222.3254668
+Uttar Pradesh,Hathras,251.8977469
+Uttar Pradesh,Jalaun,371.0071214
+Uttar Pradesh,Jaunpur,179.8029085
+Uttar Pradesh,Jhansi,464.6006546
+Uttar Pradesh,Kannauj,297.0241047
+Uttar Pradesh,Kanpur Dehat,272.8534953
+Uttar Pradesh,Kanpur Nagar,221.4742879
+Uttar Pradesh,Kasganj,414.8904447
+Uttar Pradesh,Kaushambi,298.0308875
+Uttar Pradesh,Kheri,304.7051455
+Uttar Pradesh,Kushi Nagar,306.9363879
+Uttar Pradesh,Lalitpur,471.0015061
+Uttar Pradesh,Lucknow,245.2878833
+Uttar Pradesh,Maharajganj,655.2746328
+Uttar Pradesh,Mahoba,231.8443397
+Uttar Pradesh,Mainpuri,305.4952377
+Uttar Pradesh,Mathura,301.0680742
+Uttar Pradesh,Mau,351.7400191
+Uttar Pradesh,Meerut,218.7460777
+Uttar Pradesh,Mirzapur,165.4617116
+Uttar Pradesh,Moradabad,175.7162421
+Uttar Pradesh,Muzaffarnagar,375.2699407
+Uttar Pradesh,Pilibhit,698.0856117
+Uttar Pradesh,Pratapgarh,300.1129606
+Uttar Pradesh,Prayagraj,353.8431067
+Uttar Pradesh,Rae Bareli,307.4443095
+Uttar Pradesh,Rampur,220.1273505
+Uttar Pradesh,Saharanpur,361.0412854
+Uttar Pradesh,Sambhal,364.1820317
+Uttar Pradesh,Sant Kabeer Nagar,476.3630794
+Uttar Pradesh,Shahjahanpur,380.5514301
+Uttar Pradesh,Shamli,236.8739201
+Uttar Pradesh,Shravasti,303.5396067
+Uttar Pradesh,Siddharth Nagar,399.2228918
+Uttar Pradesh,Sitapur,194.8437007
+Uttar Pradesh,Sonbhadra,289.7341175
+Uttar Pradesh,Sultanpur,275.4357192
+Uttar Pradesh,Unnao,202.1211334
+Uttar Pradesh,Varanasi,271.7375218
+West Bengal,24 Paraganas North,1223.227038
+West Bengal,24 Paraganas South,1484.169798
+West Bengal,Alipurduar,2730.774843
+West Bengal,Bankura,1389.571837
+West Bengal,Birbhum,1242.05278
+West Bengal,Coochbehar,2670.502038
+West Bengal,Darjeeling,2183.318308
+West Bengal,Dinajpur Dakshin,1134.070997
+West Bengal,Dinajpur Uttar,1377.633606
+West Bengal,Hooghly,1329.412371
+West Bengal,Howrah,1137.414641
+West Bengal,Jalpaiguri,2941.123571
+West Bengal,Jhargram,1218.921179
+West Bengal,Kalimpong,2843.815541
+West Bengal,Kolkata,1090.626867
+West Bengal,Maldah,972.6114404
+West Bengal,Medinipur East,1392.102752
+West Bengal,Medinipur West,1290.913351
+West Bengal,Murshidabad,1019.873729
+West Bengal,Nadia,1114.648248
+West Bengal,Paschim Bardhaman,1473.688342
+West Bengal,Purba Bardhaman,1293.199664
+West Bengal,Purulia,1475.134104
